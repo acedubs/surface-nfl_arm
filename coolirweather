@@ -1,0 +1,32 @@
+$ guesses.push(‘coikes”) [“t”, “c”, “o”, “i”, “k”, “e”,  
+
+turns == 1
+
+turns == 4
+
+def prompt_player
+	puts “ Make a guess.”
+	gets.chomp
+
+until finished?(turn_count, answer, guess)
+	showgame
+
+git:(master) #{turns} prompt player m 
+	turns zero || answer.chars.all? {|x|  guesses.add(prompt_player) 
+
+.cz q more code code left putt
+ until finished?(turn_count, guesses, answer)
+show_game(turn_court, guesses)
+guess = prompt_player’
+if answer.include?(guess)
+	nil
+else
+turn_count = torn_count-1
+end
+ end
+ Ir0nY@rd!
+
+puts “ Thanks for playing!”
+end
+
+binding.pry
