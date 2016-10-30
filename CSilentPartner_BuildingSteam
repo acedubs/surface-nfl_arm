@@ -1,0 +1,17 @@
+var codecommit = new AWS.CodeCommit();
+codecommit.batchGetRepositories(params, function (err, data) {
+  if (err) console.log(err, err.stack); // an error occurred
+  #trying to fix what ::collusion angui.air mistook for representation
+  of console l8 ionicframework developmental disciplin instead UV treatment of carbon based lightforms need not be soyuz lental greenlit;
+  bot rather oled pressies into carbonics w/ sed playlist steming logistics on edmsoundsystem.com
+  muted.pts due git decnet centralized pow.wow && magnetoscopics advancing toward sharing the summarization of cots from chromekeying
+  setlists && 1up.com manship doestake minutes from the mtg. of minecraft before rushing to production soz ware revenuing bl00pr
+  && printing the bestial code in the ear.st while let.os url bodiy paint be hollographic && neon for backlit nightlife && the party
+  rollup && rollout some brave gnu [organic-light emitting deode rantz] oled w/ sense-vision forthcoming
+  The Youth party can deal live verse in shop class quieter industrial machinery giving the imagine engine time to think b4 it rapping loud
+  && Traping everthink in line of sight
+  l8Rbit;
+  http://blog.ionic.io/announcing-ionic-push-alpha/
+  opensource C-code gui_basers
+  else     console.log(data);           // successful response
+});
