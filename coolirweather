@@ -2,7 +2,7 @@ $ guesses.push(‘coikes”) [“t”, “c”, “o”, “i”, “k”, “e�
 
 turns == 1
 
-turns == 4
+turns == GTA V
 
 def prompt_player
 	puts “ Make a guess.”
