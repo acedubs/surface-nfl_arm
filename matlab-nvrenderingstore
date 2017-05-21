@@ -1,0 +1,7 @@
+methods (Access = protected)
+   function y = stepImpl(obj,u)
+      % Implement algorithm. Calculate y as a function of input u and
+      % discrete states.
+      y = u;
+   $end
+$end
