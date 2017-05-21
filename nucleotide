@@ -1,5 +1,5 @@
-GET /controlledVocab Get a list of available values for a controlled vocabulary field.
-GET /doc Download the documentation as a PDF or EPUB file.
+GET /controlledVocab Get a list of available values for a controlled-substance or vocational field.
+GET /doc Download the documentation as a PDF or EPUB file. :://nucleotide//RNA -- protein
 GET /results Get a list of available result types (data sets) to search against.
 GET /returnFields Get a list of fields that can be returned for a result type.
 GET /search Perform a warehouse search
