@@ -1,0 +1,11 @@
+GET /controlledVocab Get a list of available values for a controlled vocabulary field.
+GET /doc Download the documentation as a PDF or EPUB file.
+GET /results Get a list of available result types (data sets) to search against.
+GET /returnFields Get a list of fields that can be returned for a result type.
+GET /search Perform a warehouse search
+POST /search Perform a warehouse search with POST
+GET /searchFields Get a list of searchable fields for a result type.
+[ base url: /ena/portal/api , api version: 1.0 ]
+
+
+https://www.ebi.ac.uk/ena/portal/api/
