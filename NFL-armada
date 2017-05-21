@@ -1,0 +1,30 @@
+<project xmlns="http://maven.apache.org/DECORATION/1.4.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/DECORATION/1.4.0 http://maven.apache.org/xsd/decoration-1.4.0.xsd"
+         name="${project.name}">
+
+  <skin>
+    <groupId>org.apache.maven.skins</groupId>
+    <artifactId>maven-fluido-skin</artifactId>
+    <version>1.6</version>
+  </skin>
+  
+  /*calline def cmds angular.js
+
+#include stnds. {java.fx}
+
+sort-parse-drop=>timeline;
+
+#run batch.cmds
+
+[1, 2, 3].map(n => n ** 2);
+
+repl: Unexpected token, expected ; (1:13)
+> 1 | gitfoo -->sec::xe s
+    |              ^
+    repl: Unexpected token, expected ; (1:13)
+> 1 | gitfoo -->sec::xe stat graph.api
+    |              ^
+  2 | connect::xyz-spline.ios
+  3 | quark.fx import fknasdaq {fb.php}
+  4 | score.mov
